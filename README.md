@@ -106,6 +106,12 @@ streamlit run hotel_app.py
 ~ YASH MORE
 Internship Project – Data Science & AI/ML
 
-🔗 **Live Application:** [https://your-app-name.streamlit.app](https://hotel-booking-cancellation-k7spyftbxggwutgmq5rj6p.streamlit.app/)
+# 🏨 Hotel Booking Cancellation Prediction System
+
+🔗 **Live Application:**  
+https://hotel-booking-cancellation-k7spyftbxggwutgmq5rj6p.streamlit.app/
+
+This project predicts whether a hotel booking is likely to be canceled using Machine Learning.
+
 
 
