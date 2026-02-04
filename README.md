@@ -98,9 +98,14 @@ hotel-booking-cancellation/
 
 ```bash
 pip install -r requirements.txt
+
 streamlit run hotel_app.py
 
 👤 Author
 
 ~ YASH MORE
 Internship Project – Data Science & AI/ML
+
+🔗 **Live Application:** [https://your-app-name.streamlit.app](https://hotel-booking-cancellation-k7spyftbxggwutgmq5rj6p.streamlit.app/)
+
+
